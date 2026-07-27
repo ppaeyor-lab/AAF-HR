@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+npm-debug.log
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Local browser cache (if needed)
+.cache/
